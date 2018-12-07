@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\jorda\desktop\exam3 answers\5\calculator\calculator\MyForm.h(261): warning C4101: 'box': unreferenced local variable
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Calculator.vcxproj -> C:\Users\jorda\Desktop\Exam3 Answers\5\Calculator\Debug\Calculator.exe
+  Calculator.vcxproj -> C:\Users\jorda\Desktop\Exam3 Answers\5\Calculator\Debug\Calculator.pdb (Partial PDB)
